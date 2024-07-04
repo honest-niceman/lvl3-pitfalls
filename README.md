@@ -4,6 +4,6 @@
 
 # Amplicode 2024.1
 
-### Amplicode 2024.1.4
+## Amplicode 2024.1.4
 
 ### What's new
